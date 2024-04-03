@@ -1,0 +1,255 @@
+[
+    {
+        "id":20,
+        "name":"Chicken",
+        "amt":"300",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/20.jpg",
+        "latest":"No"
+    },
+    {
+        "id":133,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+        "latest":"No"
+    },
+    {
+        "id":60,
+        "name":"rice",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/60.jpg",
+        "latest":"No"
+    },
+    {
+        "id":71,
+        "name":"noodles",
+        "amt":"350",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/71.jpg",
+        "latest":"No"
+    },
+    {
+        "id":58,
+        "name":"cake",
+        "amt":"250",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/58.jpg",
+        "latest":"No"
+    },
+    {
+        "id":113,
+        "name":"bun jam",
+        "amt":"700",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/113.jpg",
+        "latest":"No"
+    },
+    {
+        "id":82,
+        "name":"porotta",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/82.jpg",
+        "latest":"No"
+    },
+    {
+        "id":64,
+        "name":"Chicken rice"  ,
+        "amt":"350",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/64.jpg",
+        "latest":"No"
+    },
+    {
+        "id":39,
+        "name":"dosa",
+        "amt":"400",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/39.jpg",
+        "latest":"No"
+    },
+    {
+        "id":12,
+        "name":"idly",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/12.jpg",
+        "latest":"No"
+    },
+    {
+        "id":137,
+        "name":"biryain",
+        "amt":"1000",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/137.jpg",
+        "latest":"No"
+    },
+    {
+        "id":500,
+        "name":"Chicken",
+        "amt":"300",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/20.jpg",
+        "latest":"No"
+    },
+    {
+        "id":800,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+        "latest":"No"
+    },
+    {
+        "id":344,
+        "name":"rice",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/60.jpg",
+        "latest":"No"
+    },
+    {
+        "id":20,
+        "name":"Chicken",
+        "amt":"300",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/20.jpg",
+        "latest":"No"
+    },
+    {
+        "id":133,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+        "latest":"No"
+    },
+    {
+        "id":60,
+        "name":"rice",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/60.jpg",
+        "latest":"No"
+    },
+    {
+        "id":71,
+        "name":"noodles",
+        "amt":"350",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/71.jpg",
+        "latest":"No"
+    },
+    {
+        "id":58,
+        "name":"cake",
+        "amt":"250",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/58.jpg",
+        "latest":"No"
+    },
+    {
+        "id":113,
+        "name":"bun jam",
+        "amt":"700",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/113.jpg",
+        "latest":"No"
+    },
+    {
+        "id":82,
+        "name":"porotta",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/82.jpg",
+        "latest":"No"
+    },
+    {
+        "id":64,
+        "name":"Chicken rice"  ,
+        "amt":"350",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/64.jpg",
+        "latest":"No"
+    },
+    {
+        "id":39,
+        "name":"dosa",
+        "amt":"400",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/39.jpg",
+        "latest":"No"
+    },
+    {
+        "id":12,
+        "name":"idly",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/12.jpg",
+        "latest":"No"
+    },
+    {
+        "id":137,
+        "name":"biryain",
+        "amt":"1000",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/137.jpg",
+        "latest":"No"
+    },
+    {
+        "id":500,
+        "name":"Chicken",
+        "amt":"300",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/20.jpg",
+        "latest":"No"
+    },
+    {
+        "id":800,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+        "latest":"No"
+    },
+    {
+        "id":344,
+        "name":"rice",
+        "amt":"500",
+        "shop":"Pizza Hut",
+        "ftype":"Non-veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/60.jpg",
+        "latest":"No"
+    }
+
+]
