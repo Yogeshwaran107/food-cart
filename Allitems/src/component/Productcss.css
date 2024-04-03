@@ -1,0 +1,45 @@
+
+.productclass{
+    width:200px;
+    height: 220px;
+    border: 1px solid hsla(0, 0%, 4%, 0.237);
+    text-align: center;
+}
+
+.productclass img{
+    width:100%;
+    height: 120px;
+ 
+    object-fit: cover;
+    
+}
+.details {
+    padding:5px;
+}
+.details h3{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.details button{
+    margin-top: 5px;
+    padding:5px 10px;
+    background-color: teal;
+    color:#fff;
+    border:none;
+    border-radius:3px;
+}
+.details p{
+    margin: 3px;
+    font-size: 15px;
+    color:hsl(25, 75%, 20%)
+}
+
+
+.details button:hover{
+    background-color: hsl(180, 56%, 20%);
+}
+
+.removebtn{
+    background-color: red !important;
+}
